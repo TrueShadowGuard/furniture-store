@@ -1,0 +1,18 @@
+.basket {
+    position: relative;
+}
+
+.counter {
+    position: absolute;
+    right: -6px;
+    top: 3px;
+    width: 20px;
+    height: 25px;
+    border-radius: 100%;
+
+    background: #E58411;
+    color: #fff;
+
+    text-align: center;
+    line-height: 25px;
+}

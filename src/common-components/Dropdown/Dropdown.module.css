@@ -1,0 +1,50 @@
+.menu {
+    position: relative;
+    width: 125px;
+}
+
+.content {
+    position: absolute;
+    top: 30px;
+    width: 100%;
+}
+
+.contentItem {
+    width: 100%;
+    border-left: 2px solid #ccc;
+    border-right: 2px solid #ccc;
+
+    color: #fff;
+    font-family: Gilroy-Medium, sans-serif;
+    text-decoration: none;
+
+    padding: 5px;
+}
+
+.contentItem a {
+    color: #fff !important;
+    font-family: Gilroy-Medium, sans-serif;
+    text-decoration: none;
+}
+
+.contentItem:last-child {
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom: 2px solid #ccc;
+}
+
+
+.button {
+    display: block;
+    height: 35px;
+    width: 100%;
+    padding: 0 10px;
+
+    font-family: Gilroy-Bold, sans-serif;
+    font-size: 20px;
+    background: none;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    color: #fff;
+    cursor: pointer;
+}

@@ -1,0 +1,29 @@
+.slogan {
+    max-width: 890px;
+    margin: 92px auto 0 auto;
+
+    font-family: Gilroy-Bold, sans-serif;
+    font-size: 80px;
+    line-height: 130%;
+    color: #fff;
+    text-align: center;
+    letter-spacing: -0.01em;
+    text-transform: capitalize;
+}
+
+.subslogan {
+    max-width: 606px;
+    margin: 14px auto 0 auto;
+
+    font-family: Gilroy-Thin, sans-serif;
+    font-size: 24px;
+    line-height: 160%;
+    text-align: center;
+    color: rgba(255,255,255,0.8);
+}
+
+@media (max-width: 700px) {
+    .slogan {
+        font-size: 40px;
+    }
+}

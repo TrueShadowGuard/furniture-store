@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;600&display=swap');
+
+.product {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+
+    border-radius: 20px;
+    background: #fff;
+}
+
+.imgContainer {
+    position: relative;
+    width: 100%;
+    height: 239px;
+
+    background: #fafafa;
+    border-radius: inherit;
+}
+
+.imgContainer > img {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%);
+    width: 81%;
+}
+
+.infoContainer {
+    padding: 14px 21px 27px 21px;
+}
+
+.type {
+    font-family: Inter, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16.7554px;
+    line-height: 20px;
+    color: #8D8D8D;
+}
+
+.name {
+    margin: 0;
+
+    font-family: Inter, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 26px;
+    text-transform: capitalize;
+    color: #0D1B39;
+}
+
+.priceAndAdd {
+    margin-top: 48px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.price {
+    display: flex;
+}
+
+.priceCurrency {
+    font-family: Inter, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: #0D1B39;
+}
+
+.priceValue {
+    font-family: Inter, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 26px;
+    color: #0D1B39;
+}
+
+.rating {
+    margin-top: 6px;
+}
+
+@media screen and (max-width: 500px) {
+    .imgContainer > img {
+        width: 60%;
+    }
+}

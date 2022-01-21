@@ -1,0 +1,27 @@
+.nav {
+    display: flex;
+}
+
+.nav > * {
+    font-family: Gilroy-Medium, sans-serif;
+    font-size: 18px;
+    line-height: 21px;
+    color: #fff !important;
+    text-decoration: none;
+}
+
+@media screen and (min-width: 700px) {
+    .nav > * {
+        margin-right: 60px;
+    }
+}
+
+@media screen and (max-width: 699px) {
+    .nav {
+        flex-grow: 1;
+
+        justify-content: space-between;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
