@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.46331461.css",
-    "main.js": "/static/js/main.68d27381.js",
-    "static/media/bg1.png": "/static/media/bg1.7b3810fd45ace712a7e5.png",
-    "static/media/gilroy-bold.ttf": "/static/media/gilroy-bold.1c23f810e531d0702f76.ttf",
-    "static/media/gilroy-ultralight.ttf": "/static/media/gilroy-ultralight.68e17ccd6916d61b2671.ttf",
-    "static/media/gilroy-medium.ttf": "/static/media/gilroy-medium.f9f832b0ed3f1ab138c9.ttf",
-    "static/media/gilroy-regular.ttf": "/static/media/gilroy-regular.b91b0127c56a8e5f9e83.ttf",
-    "static/media/chair2.png": "/static/media/chair2.723a8e1182e97f07a8e0.png",
-    "static/media/chair.png": "/static/media/chair.595cf4d6b2462b89afd8.png",
-    "static/media/arrow-right.svg": "/static/media/arrow-right.9a275b6894810e0b8a93c7e5187fe052.svg",
-    "static/media/Basket.svg": "/static/media/Basket.0dfb0976f6a4acd86a75d1ddff059c5b.svg",
-    "static/media/Start-dark.svg": "/static/media/Start-dark.663c285f5035776756a4e1177c15690f.svg",
-    "static/media/Star.svg": "/static/media/Star.9711f288427e4bd4f1a81a851f72e57f.svg",
-    "static/media/twitter.svg": "/static/media/twitter.82fd35fd8b13c04e1dfc50dd6ee20bab.svg",
-    "static/media/insta.svg": "/static/media/insta.847a2f8b2465d763deb7f3356ab9e1f8.svg",
-    "static/media/Add.svg": "/static/media/Add.8b14ecb9418a7c1b8c7911321af64ac0.svg",
-    "index.html": "/index.html",
-    "static/media/Search.svg": "/static/media/Search.511a7190399d1664080a4d4d1e2cde9c.svg",
-    "static/media/fb.svg": "/static/media/fb.5aecc189faa4e615877164a5078bc4eb.svg",
-    "main.46331461.css.map": "/static/css/main.46331461.css.map",
-    "main.68d27381.js.map": "/static/js/main.68d27381.js.map"
+    "main.css": "/furniture-store/static/css/main.0571a0f4.css",
+    "main.js": "/furniture-store/static/js/main.03ec5e75.js",
+    "static/media/bg1.png": "/furniture-store/static/media/bg1.7b3810fd45ace712a7e5.png",
+    "static/media/gilroy-bold.ttf": "/furniture-store/static/media/gilroy-bold.1c23f810e531d0702f76.ttf",
+    "static/media/gilroy-ultralight.ttf": "/furniture-store/static/media/gilroy-ultralight.68e17ccd6916d61b2671.ttf",
+    "static/media/gilroy-medium.ttf": "/furniture-store/static/media/gilroy-medium.f9f832b0ed3f1ab138c9.ttf",
+    "static/media/gilroy-regular.ttf": "/furniture-store/static/media/gilroy-regular.b91b0127c56a8e5f9e83.ttf",
+    "static/media/chair2.png": "/furniture-store/static/media/chair2.723a8e1182e97f07a8e0.png",
+    "static/media/chair.png": "/furniture-store/static/media/chair.595cf4d6b2462b89afd8.png",
+    "static/media/arrow-right.svg": "/furniture-store/static/media/arrow-right.9a275b6894810e0b8a93c7e5187fe052.svg",
+    "static/media/Basket.svg": "/furniture-store/static/media/Basket.0dfb0976f6a4acd86a75d1ddff059c5b.svg",
+    "static/media/Start-dark.svg": "/furniture-store/static/media/Start-dark.663c285f5035776756a4e1177c15690f.svg",
+    "static/media/Star.svg": "/furniture-store/static/media/Star.9711f288427e4bd4f1a81a851f72e57f.svg",
+    "static/media/twitter.svg": "/furniture-store/static/media/twitter.82fd35fd8b13c04e1dfc50dd6ee20bab.svg",
+    "static/media/insta.svg": "/furniture-store/static/media/insta.847a2f8b2465d763deb7f3356ab9e1f8.svg",
+    "index.html": "/furniture-store/index.html",
+    "static/media/Add.svg": "/furniture-store/static/media/Add.8b14ecb9418a7c1b8c7911321af64ac0.svg",
+    "static/media/Search.svg": "/furniture-store/static/media/Search.511a7190399d1664080a4d4d1e2cde9c.svg",
+    "static/media/fb.svg": "/furniture-store/static/media/fb.5aecc189faa4e615877164a5078bc4eb.svg",
+    "main.0571a0f4.css.map": "/furniture-store/static/css/main.0571a0f4.css.map",
+    "main.03ec5e75.js.map": "/furniture-store/static/js/main.03ec5e75.js.map"
   },
   "entrypoints": [
-    "static/css/main.46331461.css",
-    "static/js/main.68d27381.js"
+    "static/css/main.0571a0f4.css",
+    "static/js/main.03ec5e75.js"
   ]
 }
